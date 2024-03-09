@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFF" /> <!-- Màu sắc của hình chữ nhật bo góc tròn -->
+    <corners android:radius="40dp" /> <!-- Bán kính của góc bo tròn -->
+    <stroke
+        android:color="#000000"
+        android:width="1dp"/>
+    <!-- Màu sắc của viền -->
+    <!-- Độ dày của viền -->
+</shape>
